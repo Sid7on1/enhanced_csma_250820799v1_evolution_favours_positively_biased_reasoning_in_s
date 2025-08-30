@@ -1,0 +1,76 @@
+# requirements.txt
+
+# Core scientific computing stack
+numpy==1.24.2
+scipy==1.12.1
+pandas==1.5.2
+matplotlib==3.7.1
+
+# Machine learning libraries
+torch==1.16.0
+torchvision==0.7.0
+scikit-learn==1.0.2
+tensorflow==2.9.1
+keras==2.9.0
+
+# Data processing and manipulation
+networkx==2.8.3
+nltk==3.6.7
+scikit-image==0.19.2
+pillow==7.2.0
+
+# Testing and debugging
+pytest==7.1.2
+debugpy==1.6.0
+pdbpp==0.17.1
+
+# Performance optimization
+numba==0.58.0
+cython==0.29.31
+line_profiler==3.3
+memory_profiler==1.0.0
+
+# Miscellaneous utilities
+tqdm==4.64.0
+rich==13.0.1
+termcolor==1.1.0
+
+# Specific versions to ensure compatibility
+python-dateutil==2.8.2
+six==1.16.0
+requests==2.27.1
+beautifulsoup4==4.6.0
+
+# Natural language processing
+spacy==3.3.0
+transformers==4.19.0
+nltk
+
+# Research-specific libraries
+hierarchymetrics==1.0.2
+adaptive-belief-networks==0.5.1
+
+# XR specific libraries
+openxr==1.0.15
+pygl==1.0.3
+pyglet==1.6.1
+
+# Data storage and management
+sqlalchemy==1.4.37
+h5py==3.6.0
+pytables==3.6.1
+
+# Optional dependencies (install if required)
+opencv-python
+pygaze
+pygaze-analyser
+
+# Development tools
+black==23.1.0
+flake8==4.0.1
+isort==5.10.1
+mypy==0.980
+sphinx==4.5.0
+
+# Note: Remember to keep this file updated with any additional dependencies added during development.
+# Ensure that all dependencies are compatible before finalizing the environment.
