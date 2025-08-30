@@ -1,0 +1,16 @@
+{
+  "project_name": "enhanced_cs.MA_2508.20799v1_Evolution_favours_positively_biased_reasoning_in_s",
+  "project_type": "agent",
+  "completion_time": "2025-08-30T20:51:23.467691",
+  "total_tasks": 7,
+  "completed_tasks": 7,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/enhanced_cs.MA_2508.20799v1_Evolution_favours_positively_biased_reasoning_in_s"
+}
